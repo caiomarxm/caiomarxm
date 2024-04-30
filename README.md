@@ -4,4 +4,4 @@ As a physics student I'm very curious and passionate about how the universe work
 
 I'm a curious and passionate person, always seeking new challenges, learning and personal growth. Some of my interests are Data Analysis, Software Development, API Development, Data Modeling, Web Scraping, Task Automation and Machine Learning.
 
-Technically I'm fluent in Python and I have academic and personal experience with C, JavaScript and SQL.
+Technically I'm fluent in Python and Javascript and I have academic and personal experience with C and Golang.
